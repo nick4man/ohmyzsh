@@ -1,5 +1,7 @@
-# custom files
-custom/
+# custom files (examples only; user config is tracked)
+custom/example.zsh
+custom/plugins/example/
+custom/themes/example.zsh-theme
 
 # temp files directories
 cache/
